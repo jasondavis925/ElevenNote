@@ -1,0 +1,6 @@
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\bin\Debug\ElevenCategories.Models.dll
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\bin\Debug\ElevenCategories.Models.pdb
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\obj\Debug\ElevenCategories.Models.csprojAssemblyReference.cache
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\obj\Debug\ElevenCategories.Models.csproj.CoreCompileInputs.cache
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\obj\Debug\ElevenCategories.Models.dll
+C:\Users\judav\OneDrive\Documents\!ELEVENFIFTYPROJECTS\!DotNetProjects\ElevenNote\ElevenCategories.Models\obj\Debug\ElevenCategories.Models.pdb
